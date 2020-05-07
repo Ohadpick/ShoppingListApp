@@ -1,0 +1,133 @@
+[
+    {
+        "Description": "Cucumber",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588715164/Cucumber_ft6ege.jpg",
+        "Price": "5.9",
+        "CategoryId": "1",
+        "UnitOfMeasureId": "1"
+    },
+    {
+        "Description": "Tomato",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Tomato_ttzkxl.jpg",
+        "Price": "4.9",
+        "CategoryId": "1",
+        "UnitOfMeasureId": "1"
+    },
+    {
+        "Description": "Pepper",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Pepper_gaskom.jpg",
+        "Price": "7.9",
+        "CategoryId": "1",
+        "UnitOfMeasureId": "1"
+    },
+    {
+        "Description": "Carrot",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Carrot_yc8mjm.jpg",
+        "Price": "6.9",
+        "CategoryId": "1",
+        "UnitOfMeasureId": "1"
+    },
+    {
+        "Description": "Onion",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Onion_wt8fyu.jpg",
+        "Price": "3.9",
+        "CategoryId": "1",
+        "UnitOfMeasureId": "1"
+    },
+    {
+        "Description": "Cream Cheese",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Cream_Cheese_pvw9pz.jpg",
+        "Price": "4.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Milk",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Milk_nsmtzt.jpg",
+        "Price": "3.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Chocolate milk",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588715026/Chocolate_milk2_ui99fp.jpg",
+        "Price": "6.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Yogurt",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Yogurt_gqlsoa.jpg",
+        "Price": "3.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Spaghetti",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Spaghetti_fuwdka.jpg",
+        "Price": "5.9",
+        "CategoryId": "3"
+    },
+    {
+        "Description": "Tortellini",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588625387/Tortellini_txsxsj.jpg",
+        "Price": "6.9",
+        "CategoryId": "3"
+    },
+    {
+        "Description": "Orange",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588747886/orange_ti8bdi.jpg",
+        "Price": "8.9",
+        "CategoryId": "1"
+    },
+    {
+        "Description": "Floor Cloth",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588765271/Floor_Cloth_lgdtl4.jpg",
+        "Price": "14.9",
+        "CategoryId": "4"
+    },
+    {
+        "Description": "Mushrooms",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588747886/mushrooms_osimtg.jpg",
+        "Price": "15.9",
+        "CategoryId": "1"
+    },
+    {
+        "Description": "Mop",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588747886/mop_fa5bdi.jpg",
+        "Price": "25.9",
+        "CategoryId": "4"
+    },
+    {
+        "Description": "Broom",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588747885/broom_aiquty.jpg",
+        "Price": "21.9",
+        "CategoryId": "4"
+    },
+    {
+        "Description": "Banana",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588747885/Banana_bxvlgy.jpg",
+        "Price": "9.9",
+        "CategoryId": "1"
+    },
+    {
+        "Description": "Yellow Cheese",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588748462/Yellow_cheese_zntktu.jpg",
+        "Price": "15.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Bulgarian Cheese",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588748461/Bulgarian_cheese_cjyuxq.jpg",
+        "Price": "8.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Cottage",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588748461/cottage_egqkp4.jpg",
+        "Price": "5.9",
+        "CategoryId": "2"
+    },
+    {
+        "Description": "Milky",
+        "PhotoUrl": "https://res.cloudinary.com/dsoduowkk/image/upload/v1588748461/Milky_je6hzp.jpg",
+        "Price": "2.9",
+        "CategoryId": "2"
+    }
+]

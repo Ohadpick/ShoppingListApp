@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+}
+
+.dropdown-toggle, .dropdown-item {
+    cursor: pointer;
+}
+
+a.dropdown-toggle {
+    color: white;
+}

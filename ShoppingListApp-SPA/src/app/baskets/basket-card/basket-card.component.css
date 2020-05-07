@@ -1,0 +1,17 @@
+
+.card-img-wrapper {
+    overflow: hidden;
+    position: relative;
+}
+
+img {
+    height: 100px;
+    width: 256px;
+    align-content: stretch;
+}
+
+img.item {
+    height: 50px;
+    width: 50px;
+}
+

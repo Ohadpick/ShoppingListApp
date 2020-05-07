@@ -1,0 +1,114 @@
+[
+    {
+        "description": "Mix",
+        "basketItems": [
+            {
+                "item": {
+                    "category": {
+                        "id": 3,
+                        "description": "Fruits and Vegetables"
+                    },
+                    "unitOfMeasure": {
+                        "id": 1,
+                        "description": "Milliliters"
+                    },
+                    "id": 5,
+                    "description": "Onion",
+                    "photoUrl": "1",
+                    "price": 3.9,
+                    "categoryId": 3,
+                    "unitOfMeasureId": 1
+                }
+            },
+            {
+                "item": {
+                    "category": {
+                        "id": 2,
+                        "description": "Milk"
+                    },
+                    "unitOfMeasure": null,
+                    "id": 7,
+                    "description": "Milk",
+                    "photoUrl": "1",
+                    "price": 3.9,
+                    "categoryId": 2,
+                    "unitOfMeasureId": null
+                }
+            },
+            {
+                "item": {
+                    "category": {
+                        "id": 1,
+                        "description": "Pasta"
+                    },
+                    "unitOfMeasure": null,
+                    "id": 10,
+                    "description": "Spaghetti",
+                    "photoUrl": "1",
+                    "price": 5.9,
+                    "categoryId": 1,
+                    "unitOfMeasureId": null
+                }
+            }
+        ]
+    },
+    {
+        "description": "Fruits and Vegetables",
+        "basketItems": [
+            {
+                "item": {
+                    "category": {
+                        "id": 3,
+                        "description": "Fruits and Vegetables"
+                    },
+                    "unitOfMeasure": {
+                        "id": 1,
+                        "description": "Milliliters"
+                    },
+                    "id": 1,
+                    "description": "Cucumber",
+                    "photoUrl": "1",
+                    "price": 5.9,
+                    "categoryId": 3,
+                    "unitOfMeasureId": 1
+                }
+            },
+            {
+                "item": {
+                    "category": {
+                        "id": 3,
+                        "description": "Fruits and Vegetables"
+                    },
+                    "unitOfMeasure": {
+                        "id": 1,
+                        "description": "Milliliters"
+                    },
+                    "id": 2,
+                    "description": "Tomato",
+                    "photoUrl": "1",
+                    "price": 4.9,
+                    "categoryId": 3,
+                    "unitOfMeasureId": 1
+                }
+            },
+            {
+                "item": {
+                    "category": {
+                        "id": 3,
+                        "description": "Fruits and Vegetables"
+                    },
+                    "unitOfMeasure": {
+                        "id": 1,
+                        "description": "Milliliters"
+                    },
+                    "id": 3,
+                    "description": "Pepper",
+                    "photoUrl": "1",
+                    "price": 7.9,
+                    "categoryId": 3,
+                    "unitOfMeasureId": 1
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+<div class="containr mt-4">
+  <div class="row">
+    <div class="col-sm-4">
+      <h1>Basket {{basket.title}}</h1>
+    </div>
+    <div class="col-sm-6">
+      <div *ngIf="editForm.dirty" class="alerts alert-info">
+        <strong>Information:</strong> you have made changes. Any unsaved changes will be lost!
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card mb-4">
+        <div class="card-img-wrapper">
+          <img class="card-img-top img-thumbnail" src="..\..\assets\img\shopping.jpg" alt="Shopping">
+          <ul class="list-inline member-icons animate text-center">
+            <!-- <li class="list-inline-item"><button class="btn btn-primary"><i class="fa fa-shopping-cart"></i></button></li> -->
+            <!-- <li class="list-inline-item"><button class="btn btn-primary"><i class="fa fa-info-circle"></i></button></li> -->
+          </ul>
+        </div>
+        <div class="card-body">
+          <form #editForm="ngForm" id="editForm" (ngSubmit)="updateBasket()">
+            <div>
+              <h4>Title</h4>
+              <input type="text" name="title" class="form-control" [(ngModel)]="basket.title">
+            </div>
+            <div>
+              <h4>Description</h4>
+              <textarea name="description" rows="3" class="form-control" [(ngModel)]="basket.description"></textarea>
+            </div>
+          </form>
+        </div>
+        <div class="card-footer">
+          <button [disabled]="!editForm.dirty" form="editForm" class="btn btn-success btn-block">Save Changes</button>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <ul class="list-group list-group-flush">
+        <li *ngFor="let item of basket.basketItems" class="list-group-item list-group-item-action"> 
+          <img class="item" src="{{item.item.photoUrl}}" alt="{{item.item.description}}">
+          {{item.item.description}}
+          <button class="btn btn-danger mt-2" style="float: right;" (click)="deleteBasketItem(item.id)"><i class="fa fa-trash"></i></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

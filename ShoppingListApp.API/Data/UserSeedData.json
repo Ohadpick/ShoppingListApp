@@ -1,0 +1,82 @@
+[
+    {
+      "Username": "User",
+      "Password": "password",
+      "Created": "2017-08-02",
+      "LastActive": "2017-08-02",
+      "PhotoUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Admin",
+      "Password": "password",
+      "Created": "2017-01-21",
+      "LastActive": "2017-01-21",
+      "PhotoUrl": "https://randomuser.me/api/portraits/women/49.jpg",
+      "UserType": 0
+    },
+    {
+      "Username": "Reba",
+      "Password": "password",
+      "Created": "2017-06-24",
+      "LastActive": "2017-06-24",
+      "PhotoUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Annmarie",
+      "Password": "password",
+      "Created": "2017-07-17",
+      "LastActive": "2017-07-17",
+      "PhotoUrl": "https://randomuser.me/api/portraits/women/74.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Ashley",
+      "Password": "password",
+      "Created": "2017-03-25",
+      "LastActive": "2017-03-25",
+      "PhotoUrl": "https://randomuser.me/api/portraits/women/33.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Roy",
+      "Password": "password",
+      "Created": "2017-08-03",
+      "LastActive": "2017-08-03",
+      "PhotoUrl": "https://randomuser.me/api/portraits/men/90.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Duke",
+      "Password": "password",
+      "Created": "2017-07-07",
+      "LastActive": "2017-07-07",
+      "PhotoUrl": "https://randomuser.me/api/portraits/men/96.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Lloyd",
+      "Password": "password",
+      "Created": "2017-08-22",
+      "LastActive": "2017-08-22",
+      "PhotoUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Larsen",
+      "Password": "password",
+      "Created": "2017-02-17",
+      "LastActive": "2017-02-17",
+      "PhotoUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+      "UserType": 1
+    },
+    {
+      "Username": "Simon",
+      "Password": "password",
+      "Created": "2017-06-27",
+      "LastActive": "2017-06-27",
+      "PhotoUrl": "https://randomuser.me/api/portraits/men/14.jpg",
+      "UserType": 1
+    }
+  ]
